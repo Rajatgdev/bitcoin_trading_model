@@ -1,7 +1,3 @@
-Certainly! Here's a README for your project, sprinkled with emojis:
-
----
-
 # 🚀 Bitcoin Price Prediction using LSTM 📈
 
 ## Overview
